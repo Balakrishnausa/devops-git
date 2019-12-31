@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1577478850,,"wq!"
+|2,0,1577669531,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,40 @@
 # Registers:
 
 # File marks:
-'0  1  16  ~/git_devops/file3.txt
-|4,48,1,16,1577478850,"~/git_devops/file3.txt"
-'1  2  21  ~/git_devops/file2.txt
-|4,49,2,21,1577477920,"~/git_devops/file2.txt"
-'2  1  13  ~/git_devops/file2.txt
-|4,50,1,13,1577410835,"~/git_devops/file2.txt"
-'3  1  13  ~/git_devops/file2.txt
-|4,51,1,13,1577410835,"~/git_devops/file2.txt"
-'4  1  8  ~/git_devops/file1.txt
-|4,52,1,8,1577410792,"~/git_devops/file1.txt"
+'0  2  4  ~/git_devops/file3.txt
+|4,48,2,4,1577669531,"~/git_devops/file3.txt"
+'1  1  16  ~/git_devops/file3.txt
+|4,49,1,16,1577478850,"~/git_devops/file3.txt"
+'2  1  16  ~/git_devops/file3.txt
+|4,50,1,16,1577478850,"~/git_devops/file3.txt"
+'3  2  21  ~/git_devops/file2.txt
+|4,51,2,21,1577477920,"~/git_devops/file2.txt"
+'4  1  13  ~/git_devops/file2.txt
+|4,52,1,13,1577410835,"~/git_devops/file2.txt"
+'5  1  13  ~/git_devops/file2.txt
+|4,53,1,13,1577410835,"~/git_devops/file2.txt"
+'6  1  8  ~/git_devops/file1.txt
+|4,54,1,8,1577410792,"~/git_devops/file1.txt"
 
 # Jumplist (newest first):
+-'  2  4  ~/git_devops/file3.txt
+|4,39,2,4,1577669531,"~/git_devops/file3.txt"
+-'  1  16  ~/git_devops/file3.txt
+|4,39,1,16,1577669499,"~/git_devops/file3.txt"
 -'  1  16  ~/git_devops/file3.txt
 |4,39,1,16,1577478850,"~/git_devops/file3.txt"
 -'  2  21  ~/git_devops/file2.txt
 |4,39,2,21,1577477920,"~/git_devops/file2.txt"
 -'  2  21  ~/git_devops/file2.txt
 |4,39,2,21,1577477920,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1577477920,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1577477920,"~/git_devops/file2.txt"
+-'  1  13  ~/git_devops/file2.txt
+|4,39,1,13,1577477879,"~/git_devops/file2.txt"
+-'  1  13  ~/git_devops/file2.txt
+|4,39,1,13,1577477879,"~/git_devops/file2.txt"
 -'  1  13  ~/git_devops/file2.txt
 |4,39,1,13,1577477879,"~/git_devops/file2.txt"
 -'  1  13  ~/git_devops/file2.txt
@@ -51,6 +67,26 @@
 |4,39,1,13,1577410835,"~/git_devops/file2.txt"
 -'  1  13  ~/git_devops/file2.txt
 |4,39,1,13,1577410835,"~/git_devops/file2.txt"
+-'  1  13  ~/git_devops/file2.txt
+|4,39,1,13,1577410835,"~/git_devops/file2.txt"
+-'  1  13  ~/git_devops/file2.txt
+|4,39,1,13,1577410835,"~/git_devops/file2.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
+-'  1  8  ~/git_devops/file1.txt
+|4,39,1,8,1577410792,"~/git_devops/file1.txt"
 -'  1  8  ~/git_devops/file1.txt
 |4,39,1,8,1577410792,"~/git_devops/file1.txt"
 -'  1  8  ~/git_devops/file1.txt
@@ -71,11 +107,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/git_devops/file3.txt
-	*	1577478845	0
-	"	1	16
-	^	1	17
-	.	1	16
+	*	1577669525	0
+	"	2	4
+	^	2	5
+	.	2	4
 	+	1	16
+	+	2	4
 
 > ~/git_devops/file2.txt
 	*	1577477916	0
