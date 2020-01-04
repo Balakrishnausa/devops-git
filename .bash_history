@@ -39,3 +39,50 @@ git status
 git add .
 git commit -a -m "add3"
 git status
+pwd
+ls
+git status
+git init
+git status
+git commit -a -m"file3"
+git status
+git remote -v
+git log
+git remote add origin https://github.com/Mulabagili/Devops_Repo
+git remote -v
+git remote push -u origin master
+git status
+cd
+ls
+cd git_devops/
+git git remote -v
+git remote -v
+git status
+git remote add origin https://github.com/Mulabagili/Devops_Repo
+git remote -v
+git push -u origin master
+cd ..
+git remote -v
+git push -u origin master
+git pull
+git remote -v
+git push -u origin master
+ls
+cd git_devops/
+ls
+git status
+clear
+pwd
+ls
+git status
+git init
+git status
+ls
+git ls-files
+git remote -v
+git log
+clear
+git push -u origin master
+git status
+ls
+git remote -v
