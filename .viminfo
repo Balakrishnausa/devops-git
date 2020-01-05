@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1578186042,,"wq!"
+|2,0,1578186952,,"wq!"
 :q
 |2,0,1578175942,,"q"
 
@@ -26,42 +26,56 @@
 
 # Registers:
 ""-	CHAR	0
-	t
-|3,1,36,0,1,0,1578177674,"t"
+	<
+|3,1,36,0,1,0,1578186948,"<"
 
 # File marks:
-'0  1  12  ~/webpage.html
-|4,48,1,12,1578186042,"~/webpage.html"
-'1  2  0  ~/.git/MERGE_MSG
-|4,49,2,0,1578185838,"~/.git/MERGE_MSG"
-'2  1  0  ~/.git/MERGE_MSG
-|4,50,1,0,1578184839,"~/.git/MERGE_MSG"
+'0  1  0  ~/webpage.html
+|4,48,1,0,1578186952,"~/webpage.html"
+'1  1  12  ~/webpage.html
+|4,49,1,12,1578186042,"~/webpage.html"
+'2  2  0  ~/.git/MERGE_MSG
+|4,50,2,0,1578185838,"~/.git/MERGE_MSG"
 '3  1  0  ~/.git/MERGE_MSG
 |4,51,1,0,1578184839,"~/.git/MERGE_MSG"
-'4  2  21  ~/git_devops/file2.txt
-|4,52,2,21,1578179842,"~/git_devops/file2.txt"
-'5  3  16  ~/git_devops/china.java
-|4,53,3,16,1578177699,"~/git_devops/china.java"
-'6  1  17  ~/git_devops/china.java
-|4,54,1,17,1578177430,"~/git_devops/china.java"
+'4  1  0  ~/.git/MERGE_MSG
+|4,52,1,0,1578184839,"~/.git/MERGE_MSG"
+'5  2  21  ~/git_devops/file2.txt
+|4,53,2,21,1578179842,"~/git_devops/file2.txt"
+'6  3  16  ~/git_devops/china.java
+|4,54,3,16,1578177699,"~/git_devops/china.java"
 '7  1  17  ~/git_devops/china.java
 |4,55,1,17,1578177430,"~/git_devops/china.java"
-'8  1  16  ~/git_devops/china.java
-|4,56,1,16,1578177291,"~/git_devops/china.java"
+'8  1  17  ~/git_devops/china.java
+|4,56,1,17,1578177430,"~/git_devops/china.java"
 '9  1  16  ~/git_devops/china.java
 |4,57,1,16,1578177291,"~/git_devops/china.java"
 
 # Jumplist (newest first):
+-'  1  0  ~/webpage.html
+|4,39,1,0,1578186952,"~/webpage.html"
 -'  1  12  ~/webpage.html
 |4,39,1,12,1578186042,"~/webpage.html"
 -'  2  0  ~/.git/MERGE_MSG
 |4,39,2,0,1578185838,"~/.git/MERGE_MSG"
 -'  2  0  ~/.git/MERGE_MSG
 |4,39,2,0,1578185838,"~/.git/MERGE_MSG"
+-'  2  0  ~/.git/MERGE_MSG
+|4,39,2,0,1578185838,"~/.git/MERGE_MSG"
+-'  2  0  ~/.git/MERGE_MSG
+|4,39,2,0,1578185838,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1578185820,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1578185820,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1578185820,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1578185820,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1578184839,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1578184839,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1578184839,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
@@ -82,6 +96,54 @@
 |4,39,2,21,1578179842,"~/git_devops/file2.txt"
 -'  2  21  ~/git_devops/file2.txt
 |4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  2  21  ~/git_devops/file2.txt
+|4,39,2,21,1578179842,"~/git_devops/file2.txt"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
+-'  3  16  ~/git_devops/china.java
+|4,39,3,16,1578177699,"~/git_devops/china.java"
 -'  3  16  ~/git_devops/china.java
 |4,39,3,16,1578177699,"~/git_devops/china.java"
 -'  3  16  ~/git_devops/china.java
@@ -146,6 +208,38 @@
 |4,39,1,7,1578177647,"~/git_devops/china.java"
 -'  1  7  ~/git_devops/china.java
 |4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
+-'  1  7  ~/git_devops/china.java
+|4,39,1,7,1578177647,"~/git_devops/china.java"
 -'  1  17  ~/git_devops/china.java
 |4,39,1,17,1578177430,"~/git_devops/china.java"
 -'  1  17  ~/git_devops/china.java
@@ -158,109 +252,17 @@
 |4,39,1,17,1578177430,"~/git_devops/china.java"
 -'  1  17  ~/git_devops/china.java
 |4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  17  ~/git_devops/china.java
-|4,39,1,17,1578177430,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  16  ~/git_devops/china.java
-|4,39,1,16,1578177291,"~/git_devops/china.java"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_devops/.git/COMMIT_EDITMSG
-|4,39,1,0,1578175942,"~/git_devops/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/webpage.html
-	*	1578186038	0
-	"	1	12
+	*	1578186948	0
+	"	1	0
 	^	1	13
-	.	1	12
-	+	1	12
+	.	1	0
+	+	1	0
+	+	5	0
+	+	1	0
 
 > ~/.git/MERGE_MSG
 	*	1578185830	0
